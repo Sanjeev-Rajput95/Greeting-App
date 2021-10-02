@@ -1,0 +1,46 @@
+#style {
+    text-align: center;
+}
+#fname {
+    margin-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    text-align: center;
+    padding-right: 50px;
+}
+#lname {
+    margin-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    text-align: center;
+    padding-right: 50px;
+}
+#onsubmmit {
+    margin-right: 23px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    text-align: center;
+    padding-right: 50px;
+}
+.style {
+    padding: 22px;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-left: 25px;
+}
+#greeting {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 22px;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-left: 35px;
+    padding-bottom: 300px;
+   
+
+}
+#message{
+    border: groove;
+    margin-right: 5%;
+    padding: 44px;
+}
